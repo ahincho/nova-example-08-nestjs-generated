@@ -1,6 +1,6 @@
 # campus-acl
 
-CampusAcl, sobre [`@ahincho/nova-nestjs`](https://github.com/ahincho/nova-nestjs).
+CampusAcl, sobre [`@ahincho/nova-nestjs`](https://github.com/ahincho/nova-nestjs-01-platform).
 
 ```bash
 pnpm install
