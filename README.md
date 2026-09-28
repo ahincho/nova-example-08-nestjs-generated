@@ -59,3 +59,7 @@ que agregues sin tocar ese archivo.
 pnpm exec nest g feature <nombre> --style=acl
 pnpm exec nest g upstream <nombre>
 ```
+
+## Licencia
+
+[EPL-2.0](LICENSE), igual que el resto de Nova Platform.
